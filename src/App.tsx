@@ -1,11 +1,11 @@
 import React, { Suspense, useRef } from "react";
 import { useVisible } from "./hooks/useVisible";
-import RocketLoader from "./components/RocketLoader/RocketLoader";
+import RocketComponent from "./components/Rocket/Rocket";
 import astronaut from "./assets/images/astronaut.png";
 import "./App.css";
 
-// import RocketComponent from './components/Rocket/Rocket';
-const RocketComponent = React.lazy(() => import("./components/Rocket/Rocket"));
+// import RocketLoader from "./components/RocketLoader/RocketLoader";
+const RocketLoader = React.lazy(() => import("./components/RocketLoader/RocketLoader"));
 
 function App() {
 	const sectionTwoRef = useRef<HTMLDivElement>(null);
