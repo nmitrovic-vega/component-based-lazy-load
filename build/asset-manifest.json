@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf10b864.css",
+    "main.js": "/static/js/main.b8b76f7e.js",
+    "static/js/787.9252ffbd.chunk.js": "/static/js/787.9252ffbd.chunk.js",
+    "static/media/astronaut.png": "/static/media/astronaut.1e1ff726131f7fbc4287.png",
+    "static/media/background.svg": "/static/media/background.b2585b400cd62719cb13.svg",
+    "static/media/space-background.jpg": "/static/media/space-background.80687b0111f84fd6c97e.jpg",
+    "static/media/rocket.svg": "/static/media/rocket.816100401c0113bbba5d2bb2e952e34c.svg",
+    "static/media/launch.svg": "/static/media/launch.b182dae5e36311dac5240ad73dd71bf7.svg",
+    "static/media/trail.svg": "/static/media/trail.f04b855cba380aeb367c57ee8317e36d.svg",
+    "static/media/big-yellow-planet.svg": "/static/media/big-yellow-planet.9d3d0d890878a78baa9bbdadd47bca1c.svg",
+    "static/media/small-blue-planet.svg": "/static/media/small-blue-planet.5c6f6b367813297e9cfdd01cf7d6aecf.svg",
+    "index.html": "/index.html",
+    "main.cf10b864.css.map": "/static/css/main.cf10b864.css.map",
+    "main.b8b76f7e.js.map": "/static/js/main.b8b76f7e.js.map",
+    "787.9252ffbd.chunk.js.map": "/static/js/787.9252ffbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf10b864.css",
+    "static/js/main.b8b76f7e.js"
+  ]
+}
