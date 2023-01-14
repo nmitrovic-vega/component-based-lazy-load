@@ -10,7 +10,6 @@ const RocketLoader = React.lazy(() => import("./components/RocketLoader/RocketLo
 function App() {
 	const sectionTwoRef = useRef<HTMLDivElement>(null);
 	const isVisible = useVisible(sectionTwoRef);
-	console.log("SECTION 2 is visible", isVisible);
 
 	return (
 		<>

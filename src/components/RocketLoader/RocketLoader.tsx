@@ -17,7 +17,7 @@ const RocketLoader = () => {
 	// component with performance bottleneck
 	useEffect(() => {
 		for (let i = 0; i < 100_000; i++) {
-			console.log("hola");
+			console.log("buongiorno");
 		}
 	}, []);
 
